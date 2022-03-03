@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Open+Sans:ital,wght@1,300&family=Oswald:wght@300&family=Roboto:wght@100;300&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    min-height: 50%;
+}
+
+body{
+    margin:15%;
+    padding: 0;
+    background-color: rgb(243, 183, 235);
+    min-height: 50%;
+    font-size: x-large;
+}
+
+header{
+    margin-top: 3rem;
+}
